@@ -1,0 +1,1 @@
+This app is a private app and does not collect data beyond the author's account.
